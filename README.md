@@ -3,6 +3,6 @@ A simple command line tool for encrypting/decrypting text using classical cipher
 
 This MPAG is cryptic
 
-#Documentation
+#Documentation test
 
 Github
